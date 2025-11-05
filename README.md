@@ -1,1 +1,1 @@
-# codehealth-ci-cd-gabriel-machado
+Uma startup chamada CodeHealth está desenvolvendo um sistema web de agendamento médico. Fomos designados para criar a primeira versão do pipeline de CI/CD e aplicar boas práticas de gerência de configuração, buscando reduzir falhas de integração e garantir que cada atualização seja testada e implantada com segurança.
